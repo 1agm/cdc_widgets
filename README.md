@@ -1,4 +1,4 @@
-# cdc_widgets
+# Crypto.com NFT Widgets for iOS
 This widgets are for Apple iOS only. The widgets show the current floor price of CDC NFTs.
 
 ## Preview
