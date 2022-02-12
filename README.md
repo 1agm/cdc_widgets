@@ -1,5 +1,5 @@
 # cdc_widgets
-This widgets are for Apple iOS only
+This widgets are for Apple iOS only. The widgets show the current floor price of CDC NFTs.
 
 ## Preview
 ![widgets](https://user-images.githubusercontent.com/98609855/153728405-3c979d11-c207-462e-8d5a-592cc5dd632c.gif)
