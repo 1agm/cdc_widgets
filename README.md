@@ -9,9 +9,9 @@ This widgets are for Apple iOS only. The widgets show the current floor price of
 <https://apps.apple.com/de/app/scriptable/id1405459188>
 ### 2 Copy script from this repository
 e.g. <https://raw.githubusercontent.com/1agm/cdc_widgets/main/loaded_lion/loaded_lion.js>
-
-![save_script_loaded_lion](https://user-images.githubusercontent.com/98609855/153731594-681fda9f-4e9b-486d-ad70-f90090c1e2f4.gif)
 ### 3 Open Scriptable app and create new script
 Paste script from step 2 into the script field
+
+![save_script_loaded_lion](https://user-images.githubusercontent.com/98609855/153731594-681fda9f-4e9b-486d-ad70-f90090c1e2f4.gif)
 ### 4 Add the Scriptable widget to your widget screen
 ![Add_LoadedLion_Widget](https://user-images.githubusercontent.com/98609855/153728167-c2e393fb-853d-4bf0-a532-5b617402972e.gif)
