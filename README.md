@@ -15,3 +15,5 @@ Paste script from step 2 into the script field
 ![save_script_loaded_lion](https://user-images.githubusercontent.com/98609855/153731594-681fda9f-4e9b-486d-ad70-f90090c1e2f4.gif)
 ### 4 Add the Scriptable widget to your widget screen
 ![Add_LoadedLion_Widget](https://user-images.githubusercontent.com/98609855/153728167-c2e393fb-853d-4bf0-a532-5b617402972e.gif)
+### 5 Stack several widgets together
+![stack_widgets](https://user-images.githubusercontent.com/98609855/153757822-14040d2d-3de7-4fe7-be96-154fcf4aa683.gif)
