@@ -14,7 +14,7 @@ This widgets are for Apple iOS only. The widgets show the current floor price of
 <https://raw.githubusercontent.com/1agm/cdc_widgets/main/psycho_kitty/psycho_kitty.js>
 #### Psycho Molly script
 <https://raw.githubusercontent.com/1agm/cdc_widgets/main/psycho_molly/psycho_molly.js>
-#### Cro price script
+#### CRO price script
 <https://raw.githubusercontent.com/1agm/cdc_widgets/main/cro_price/cro_price.js>
 ### 3 Paste script from step 2 into the script field of Scriptable app 
 
