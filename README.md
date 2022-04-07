@@ -18,6 +18,8 @@ This widgets are for Apple iOS only. The widgets show the current floor price of
 <https://raw.githubusercontent.com/1agm/cdc_widgets/main/cro_price/cro_price.js>
 #### Alpha Bots script
 <https://raw.githubusercontent.com/1agm/cdc_widgets/main/alpha_bots/alpha_bots.js>
+#### Ballies script
+<https://raw.githubusercontent.com/1agm/cdc_widgets/main/ballies/ballies.js>
 ### 3 Paste script from step 2 into the script field of Scriptable app 
 
 ![save_script_loaded_lion](https://user-images.githubusercontent.com/98609855/153731594-681fda9f-4e9b-486d-ad70-f90090c1e2f4.gif)
